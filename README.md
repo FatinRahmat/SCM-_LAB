@@ -1,5 +1,6 @@
 # SCM-_LAB
 
+
 six core functions of scm
 
 source code management
@@ -8,3 +9,4 @@ environment configuration
 change control
 release management
 deployment
+
