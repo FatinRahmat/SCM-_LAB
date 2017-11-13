@@ -1,9 +1,11 @@
 # SCM-_LAB
 
-testing for changes conntrol
+testing for changes control
+
+core functions
 
 source code management
 build engineering
-environment coniguration
+environment configuration
 change control
 release management
