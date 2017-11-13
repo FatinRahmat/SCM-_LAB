@@ -1,11 +1,12 @@
 # SCM-_LAB
 
-testing for changes control
 
-core functions
+six core functions of scm
 
 source code management
 build engineering
 environment configuration
 change control
 release management
+deployment
+
